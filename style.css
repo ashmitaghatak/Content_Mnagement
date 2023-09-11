@@ -1,12 +1,12 @@
 body {
-    font-family: "Times New Roman", Times, serif;
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     }
     
     header {
-    background-color: #742d8f;
-    color: #c9c9ff;
+    background-color: #58141448;
+    color: #fff;
     padding: 20px;
     text-align: center;
     }
@@ -16,7 +16,7 @@ body {
     }
     
     form {
-    background-color: #f0d6fa;
+    background-color: #f1f1f1;
     padding: 20px;
     border-radius: 5px;
     }
@@ -45,7 +45,7 @@ body {
     }
     
     button[type="submit"] {
-    background-color: #373232;
+    background-color: #333;
     color: #fff;
     border: none;
     padding: 10px 20px;
